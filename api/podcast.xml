@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Junior Guru podcast</title>
+    <link>https://junior.guru/podcast/</link>
+    <description>Jsme tu pro všechny juniory v IT! Jak začít s programováním? Jak najít práci v IT? Přinášíme odpovědi, inspiraci, motivaci.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>© 2023 Pavlína Froňková, Jan Javorek</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>JuniorGuruBot (+https://junior.guru)</generator>
+    <language>cs</language>
+    <lastBuildDate>Tue, 07 Feb 2023 16:36:58 +0000</lastBuildDate>
+    <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
+    <dc:creator>Pája Froňková</dc:creator>
+    <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
+    <pubDate>Sun, 15 Jan 2023 01:42:42 +0100</pubDate>
+    <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
+    <itunes:owner>
+      <itunes:name>Honza Javorek</itunes:name>
+      <itunes:email>honza@junior.guru</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://junior.guru/api/podcast.xml" rel="self" type="application/rss+xml"/>
+    <podcast:funding url="https://junior.guru/club/">Přidej se do klubu junior.guru</podcast:funding>
+    <item>
+      <title>#0 Startujeme!</title>
+      <link>https://junior.guru/podcast/#episode0000</link>
+      <description><![CDATA[<p>Jak začít s programováním? Jak najít práci v IT? Přinášíme odpovědi, inspiraci, motivaci. Pája Froňková uvádí podcast pro všechny juniory v IT. V krátkém úvodním dílu je spolu s Honzou Javorkem, autorem projektu junior.guru, kde tento podcast našel svůj domov.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0000</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0000.mp3" length="2635792" type="audio/mpeg"/>
+      <itunes:duration>03:08</itunes:duration>
+      <pubDate>Sat, 01 Jan 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/honza-javorek.jpg"/>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode display="#0">1</podcast:episode>
+    </item>
+    <item>
+      <title>#1 Jiří Psotka (Red Hat) o hledání první práce v IT</title>
+      <link>https://junior.guru/podcast/#episode0001</link>
+      <description><![CDATA[<p>V prvním díle uslyšíš Jirku Psotku, seniorního recruitera v Red Hatu. Dozvíš se, jak se jako junior připravit na výběrové řízení – od bezchybného CV, až po samotný pohovor. Hledáš první uplatnění v IT světě a hodilo by se ti pár tipů do začátku? Tak tohle je díl pro tebe!</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0001</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0001.mp3" length="46558026" type="audio/mpeg"/>
+      <itunes:duration>55:26</itunes:duration>
+      <pubDate>Sat, 15 Jan 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/jiri-psotka.jpg"/>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode display="#1">2</podcast:episode>
+    </item>
+    <item>
+      <title>#2 Roman Hraška (yablko) o kurzech webdevelopmentu</title>
+      <link>https://junior.guru/podcast/#episode0002</link>
+      <description><![CDATA[<p>Ve druhém díle si Pája povídá s Romanem Hraškou, známým jako yablko, programátorem, youtuberem a tvůrcem kurzů programování. Jak by doporučil začít s programováním těm, kteří ještě tápou? V tomhle díle si přijdou na své hlavně ti, kteří se zajímají o web, ale Roman má spoustu tipů i pro ostatní!</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0002</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0002.mp3" length="44598119" type="audio/mpeg"/>
+      <itunes:duration>53:06</itunes:duration>
+      <pubDate>Tue, 15 Feb 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/roman-hraska.jpg"/>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode display="#2">3</podcast:episode>
+    </item>
+    <item>
+      <title>#3 Filip Kirschner (Applifting) o firemním přístupu k juniorům a nejen tom</title>
+      <link>https://junior.guru/podcast/#episode0003</link>
+      <description><![CDATA[<p>Ve třetím díle si poslechneš Filipa Kirschnera, spoluzakladatele firmy Applifting. Pája si s ním povídá o jejich firemní kultuře a přístupu k juniorním developerům, ale ptá se ho i na to, jaký programovací jazyk by si vybral, kdyby se znovu učil programovat, nebo co by poradil těm, kteří se chtějí z nuly dostat na první placenou IT pozici.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0003</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0003.mp3" length="42512450" type="audio/mpeg"/>
+      <itunes:duration>50:37</itunes:duration>
+      <pubDate>Tue, 15 Mar 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/filip-kirschner.jpg"/>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode display="#3">4</podcast:episode>
+    </item>
+    <item>
+      <title>#4 Tereza Vaňková (Deepnote) o její cestě k programování a komunitě ReactGirls</title>
+      <link>https://junior.guru/podcast/#episode0004</link>
+      <description><![CDATA[<p>Ve čtvrtém díle si Pája povídá s Terkou Vaňkovou, software developerkou ve startupu Deepnote a zakladatelkou české komunity ReactGirls. Dozvíš se, jaké byly pro Terku začátky v IT, jakými kurzy prošla a jak získala nejen první práci jako software developerka. Dostane se také na české IT komunity a povídání o ReactGirls.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0004</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0004.mp3" length="28322005" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <pubDate>Fri, 15 Apr 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/tereza-vankova.jpg"/>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode display="#4">5</podcast:episode>
+    </item>
+    <item>
+      <title>#5 Petr Přibil (Tatanka) o změně kariéry od lesníka až k Python developerovi</title>
+      <link>https://junior.guru/podcast/#episode0005</link>
+      <description><![CDATA[<p>V pátém díle se s Pájou podělil o svoji zkušenost Petr Přibil alias Tatanka. Pracuje čerstvě jako juniorní Python vývojář, přitom ještě nedávno byl obchodník a předtím dělal v lesnictví. Co mu na začátku nejvíce pomohlo a co by udělal jinak? Co by poradil těm, kdo chtějí odejít z rozjeté kariéry na juniorní místo v IT?</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0005</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0005.mp3" length="26516824" type="audio/mpeg"/>
+      <itunes:duration>31:34</itunes:duration>
+      <pubDate>Mon, 16 May 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/petr-pribil.jpg"/>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode display="#5">6</podcast:episode>
+    </item>
+    <item>
+      <title>#6 Markéta Willis (Applifting) o její cestě k IT a učení (se) programování</title>
+      <link>https://junior.guru/podcast/#episode0006</link>
+      <description><![CDATA[<p>Do šestého dílu si Pája pozvala Markétu Willis. Ačkoliv Markéta vystudovala pedagogickou fakultu, teď se živí jako frontend developerka ve společnosti Applifting. Kromě toho ještě stíhá lektorovat pro Czechitas. Dozvíš se, jaká byla její cesta k programování a uslyšíš i o jejích zkušenostech z lektorování.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0006</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0006.mp3" length="25206470" type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <pubDate>Wed, 15 Jun 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/marketa-willis.jpg"/>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode display="#6">7</podcast:episode>
+    </item>
+    <item>
+      <title>#7 Mia Bajić (Seznam) o cestě z Bosny do českého Seznamu</title>
+      <link>https://junior.guru/podcast/#episode0007</link>
+      <description><![CDATA[<p>V sedmém díle podcastu si Pája povídá s Miou Bajić, Python developerkou v Seznamu. Mia prozradí, jak se vůbec dostala z Bosny do České republiky a jakou cestu zvolila, aby získala práci v IT. Poslechni si, co říká na studium programování na vysoké škole a co jí pomohlo v její kariéře.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0007</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0007.mp3" length="21636733" type="audio/mpeg"/>
+      <itunes:duration>25:45</itunes:duration>
+      <pubDate>Sun, 17 Jul 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/mia-bajic.jpg"/>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode display="#7">8</podcast:episode>
+    </item>
+    <item>
+      <title>#8 Michal Matuška (SUPERKODERS) o leadershipu a juniorech</title>
+      <link>https://junior.guru/podcast/#episode0008</link>
+      <description><![CDATA[<p>Osmý díl podcastu patří Michalu Matuškovi, frontend developerovi a spoluzakladateli firmy SUPERKODERS. S Pájou si povídá o tom, jak se on sám dostal k programování, co by poradil někomu, kdo začíná dnes, nebo o tom, co hledá na pohovorech u juniorů.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0008</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0008.mp3" length="26471110" type="audio/mpeg"/>
+      <itunes:duration>31:31</itunes:duration>
+      <pubDate>Thu, 15 Sep 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/michal-matuska.jpg"/>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode display="#8">9</podcast:episode>
+    </item>
+    <item>
+      <title>#9 Markéta Lourenco (Mews) o cestě od lingvistiky k datové analýze</title>
+      <link>https://junior.guru/podcast/#episode0009</link>
+      <description><![CDATA[<p>Do devátého dílu si Pája pozvala Markétu Lourenco, původně vystudovanou lingvistku a v současnosti datovou analytičku ve firmě Mews. Vypráví o tom, co ji přimělo vyzkoušet svět IT, jak hladce se jí podařilo získat první datovou pozici a co její práce obnáší.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0009</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0009.mp3" length="26262287" type="audio/mpeg"/>
+      <itunes:duration>31:16</itunes:duration>
+      <pubDate>Sat, 15 Oct 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/marketa-lourenco.jpg"/>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode display="#9">10</podcast:episode>
+    </item>
+    <item>
+      <title>#10 Klára Šťouračová (Productboard) o úspěšném startu kariéry v IT</title>
+      <link>https://junior.guru/podcast/#episode0010</link>
+      <description><![CDATA[<p>V desátém díle si můžeš poslechnout Kláru Šťouračovou, která se už 7 let pohybuje na různých HR a People pozicích v technologických firmách. Kromě toho spoluzaložila makeITtoday, úspěšné kurzy programovaní pro děti. Jakých si za svoji kariéru všimla trendů v IT odvětví? Jak podle ní správně nastartovat kariéru? A proč si myslí, že je důležité děti vést k počítačové gramotnosti?</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0010</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0010.mp3" length="30451178" type="audio/mpeg"/>
+      <itunes:duration>36:15</itunes:duration>
+      <pubDate>Tue, 15 Nov 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/klara-stouracova.jpg"/>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode display="#10">11</podcast:episode>
+    </item>
+    <item>
+      <title>#11 Lukáš Konarovský (Fakturoid) o podnikání, třeba i v IT</title>
+      <link>https://junior.guru/podcast/#episode0011</link>
+      <description><![CDATA[<p>V tomto díle si Pája povídá s Lukášem Konarovským, podnikatelem a spoluzakladatelem firmy Fakturoid. Jak se Lukáš dostal k IT a k podnikání? Co je podle něj na podnikání nejtěžší? Co naopak možná vnímáme jako větší problém, než ve skutečnosti je? Pokud přemýšlíš nad podnikáním (třeba zrovna v IT) je tento díl přesně pro tebe!</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0011</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0011.mp3" length="23825167" type="audio/mpeg"/>
+      <itunes:duration>28:22</itunes:duration>
+      <pubDate>Thu, 15 Dec 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/lukas-konarovsky.jpg"/>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode display="#11">12</podcast:episode>
+    </item>
+    <item>
+      <title>#12 Veronika Gabrielová (Aimful) o efektivním kariérním růstu</title>
+      <link>https://junior.guru/podcast/#episode0012</link>
+      <description><![CDATA[<p>Do prvního dílu v novém roce si Pája pozvala Verču Gabrielovou. Ačkoliv IT na škole nikdy nestudovala, má dnes za sebou už sedmiletou kariéru vývojářky. Jak se dostala k první práci v oboru? Jak by radila zpracovávat zpětnou vazbu? Jak na zákeřný impostor syndrom? Proč je dobré chodit na pohovory, i když práci zrovna nehledáte? Co by udělala jinak při vyjednávání o mzdě?</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0012</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0012.mp3" length="30450081" type="audio/mpeg"/>
+      <itunes:duration>36:15</itunes:duration>
+      <pubDate>Sun, 15 Jan 2023 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/veronika-gabrielova.jpg"/>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode display="#12">13</podcast:episode>
+    </item>
+  </channel>
+</rss>
